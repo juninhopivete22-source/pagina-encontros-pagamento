@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "LoveConnect - Encontre seu amor verdadeiro",
+  description: "Site de relacionamento com chamadas de vídeo e verificação de identidade. Encontre pessoas reais para relacionamentos sérios.",
 };
 
 export default function RootLayout({
